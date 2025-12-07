@@ -1,0 +1,23 @@
+.login-form input {
+  display: block;
+  margin: 5px 0;
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid #00796b;
+}
+.login-form button {
+  margin-top: 5px;
+  padding: 5px 10px;
+  border-radius: 5px;
+  border: none;
+  background-color: #00796b;
+  color: white;
+  cursor: pointer;
+}
+.login-form button:hover {
+  background-color: #004d40;
+}
+.error {
+  color: red;
+  margin-top: 5px;
+}

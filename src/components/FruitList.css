@@ -1,0 +1,11 @@
+.fruit-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 10px 0;
+}
+.fruit-list li {
+  background-color: #e0f2f1;
+  margin: 3px 0;
+  padding: 5px 10px;
+  border-radius: 5px;
+}

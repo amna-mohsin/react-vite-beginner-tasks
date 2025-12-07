@@ -1,0 +1,14 @@
+.counter-container {
+  margin: 10px 0;
+}
+button {
+  background-color: #00796b;
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #004d40;
+}

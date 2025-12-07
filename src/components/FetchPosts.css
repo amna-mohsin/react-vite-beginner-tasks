@@ -1,0 +1,11 @@
+.fetchposts-container ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.fetchposts-container li {
+  background-color: #e0f2f1;
+  margin: 3px 0;
+  padding: 5px 10px;
+  border-radius: 5px;
+}

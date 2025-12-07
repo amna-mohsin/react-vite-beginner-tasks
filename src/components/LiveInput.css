@@ -1,0 +1,7 @@
+.liveinput-container input {
+  padding: 6px;
+  border-radius: 5px;
+  border: 1px solid #00796b;
+  margin-bottom: 5px;
+  width: 200px;
+}
