@@ -112,4 +112,3 @@ For more details, see the [Vite documentation](https://vitejs.dev/guide/).
 This project is **open-source** and free to use.
 
 ---
-Do you want me to do that?
